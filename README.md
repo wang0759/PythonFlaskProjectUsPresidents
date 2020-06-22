@@ -1,4 +1,9 @@
-# A Flask exercise for beginners, based on a repo found on the web
+# Finished Images of the Project by QuanyiWang
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+
+# A Flask exercise for beginners, based on a repo found on the web through my Python course
 
 In this exercise, we will work with a CSV file as our data source to create individual pages for each of the 45 United States presidents. The CSV file is provided for you: *presidents.csv* (Open it above.)
 
